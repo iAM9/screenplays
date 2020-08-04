@@ -4,7 +4,6 @@ Screenplays for various short films I have written for competitions and personal
 
 ----
 ##  [Floor Half](ibrahim_floor_half_5_pager.pdf)
-##
 *Genres : Sci-fi , drama*
 >     “Stuck in an elevator, a young boy has to go through "floor half" to get to the next floor."
 
