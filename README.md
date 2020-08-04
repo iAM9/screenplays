@@ -3,8 +3,8 @@
 Screenplays for various short films I have written for competitions and personal exercises.
 
 ##  [Floor Half](ibrahim_floor_half_5_pager.pdf)
-[Read it here](ibrahim_floor_half_5_pager.pdf)
-##
+*[Read it here](ibrahim_floor_half_5_pager.pdf)*
+
 *Genres : Mystery, Thriller, Horror*
 
 *5 pages*
@@ -17,7 +17,7 @@ Winner as the **Best Short Script for Second Season** of **Berlin Flash Film Fes
 
 ----
 ##  [The Last Trip](ibrahim_last_trip_5_pager.pdf)
-[Read it here](ibrahim_last_trip_5_pager.pdf)
+*[Read it here](ibrahim_last_trip_5_pager.pdf)*
 
 *Genres : Sci-fi , drama*
 
@@ -26,8 +26,7 @@ Winner as the **Best Short Script for Second Season** of **Berlin Flash Film Fes
 
 ----
 ##  [You Dummy](you_dummy.pdf)
-
-[Read it here](you_dummy.pdf)
+*[Read it here](you_dummy.pdf)*
 
 *Genres : Mystery, Thriller*
 
